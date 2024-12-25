@@ -1,0 +1,8 @@
+[Desktop Entry]
+#Type=Application
+Name=Calculate DI
+Comment=Calculates the DI value of selected Excel file and shows output in terminal
+Exec=python3 /home/admin/Desktop/工作笔记/代码/CalculateDI/CalculateDI.py %F
+Icon=utilities-terminal
+Terminal=true
+NoDisplay=false
